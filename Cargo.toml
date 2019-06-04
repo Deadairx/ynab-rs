@@ -19,7 +19,7 @@ rfc5545 = { optional = true, git = "https://github.com/Phrohdoh/rfc5545-rs.git" 
 uuid = { version = "0.7.1", features = ["v4"] }
 
 # used in the `create_gcal_events` example
-easyg = { git = "ssh://git@github.com/Phrohdoh/easyg-rs.git" }
+#easyg = { git = "ssh://git@github.com/Phrohdoh/easyg-rs.git" }
 
 [[example]]
 name = "icalendar_rrules"
