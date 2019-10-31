@@ -1,8 +1,8 @@
 # `ynab`
 
-A client library for [You Need A Budget's API](https://api.youneedabudget.com/).
+A client library for [You Need A Budget's API](https://api.youneedabudget.com/) (YNAB).
 
-[You Need A Budget](https://youneedabudget.com/) (YNAB) is a service with the goal of helping users "stop living paycheck to paycheck, get out of debt, and save more money."
+YNAB is a service with the goal of helping users "stop living paycheck to paycheck, get out of debt, and save more money."
 
 This project is not endorsed or maintained by YNAB.
 
